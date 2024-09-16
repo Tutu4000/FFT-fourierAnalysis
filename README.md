@@ -150,9 +150,6 @@ As \(a = 2\), \(b = 2\), then \(n \log_b a = n \log_2 2 = n\). \(F(n) = 3n/2\). 
 | 2^10       | 13.211             | 0.035              |
 | 2^11       | 52.510             | 0.074              |
 
-**X-axis:** Input Size, **Y-axis:** Time in seconds.  
-*Note: The graph differs slightly from the table because a numba @jit compilation optimization was applied here.*
-
 ---
 
 ## Conclusions:
